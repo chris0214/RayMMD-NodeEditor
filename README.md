@@ -1,5 +1,13 @@
 ﻿# Ray-MMD Node Editor
 
+警告⚠️，以下简介和代码由GPT5.5生成，请仔细鉴别其准确性！！！！
+警告⚠️，以下简介和代码由GPT5.5生成，请仔细鉴别其准确性！！！！
+警告⚠️，以下简介和代码由GPT5.5生成，请仔细鉴别其准确性！！！！
+警告⚠️，以下简介和代码由GPT5.5生成，请仔细鉴别其准确性！！！！
+警告⚠️，以下简介和代码由GPT5.5生成，请仔细鉴别其准确性！！！！
+警告⚠️，以下简介和代码由GPT5.5生成，请仔细鉴别其准确性！！！！
+
+
 Ray-MMD Node Editor 是一个面向 Ray-MMD 的专用节点材质编辑器。它用于生成 Ray-MMD 可以使用的 `material_2.0.fx`、`material_common_2.0.fxsub`、`ray.conf`、`ray_advanced.conf` 和可选的 Shader patch 副本。
 
 这个项目的目标不是替代 Ray-MMD，也不是做一个通用 MME 编辑器。它只针对 Ray-MMD 的材质和部分最终着色管线，把常用参数、贴图、数学节点、PBR/BRDF 辅助节点、Ray 通道节点和高级 patch 工作流做成可视化编辑。
