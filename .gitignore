@@ -1,0 +1,36 @@
+# Build output
+bin/
+obj/
+build-check/
+publish/
+publish-single/
+
+# Local export output
+ExportedRayPreset/
+*.raymmdgraph.json.bak
+RayMmdNodeEditor_Report.txt
+
+# Local .NET/NuGet caches created during sandboxed builds
+.dotnet-home/
+.appdata/
+.localappdata/
+.userprofile/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
