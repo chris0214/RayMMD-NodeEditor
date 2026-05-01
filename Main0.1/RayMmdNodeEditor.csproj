@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>RayMmdNodeEditor</AssemblyName>
+    <RootNamespace>RayMmdNodeEditor</RootNamespace>
+    <ApplicationTitle>Ray-MMD Node Editor</ApplicationTitle>
+    <Description>Ray-MMD material and shading node editor for generating Ray-MMD compatible FX presets.</Description>
+    <Authors>克里斯提亚娜</Authors>
+    <Copyright>Copyright (c) 2026 克里斯提亚娜</Copyright>
+    <Version>0.1.0-preview.1</Version>
+    <InformationalVersion>0.1.0-preview.1</InformationalVersion>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
